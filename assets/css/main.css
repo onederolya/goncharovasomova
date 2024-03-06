@@ -141,7 +141,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #787878;
-		font-weight: 200;
+		font-weight: 400;
 	}
 
 	em, i {
@@ -191,7 +191,7 @@ input, select, textarea {
 
 	h6 {
 		font-size: 0.7em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	sub {
