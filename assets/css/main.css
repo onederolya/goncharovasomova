@@ -1,23 +1,23 @@
 @font-face {
-  font-family: 'Utily Medium';
-  src: url('assets/webfonts/Utily Medium.otf') format('otf');
+  font-family: 'UtilyMedium';
+  src: url('assets/webfonts/UtilyMedium.otf') format('otf');
 }
 @font-face {
-  font-family: 'Utily Regular';
-  src: url('assets/webfonts/Utily Regular.otf') format('otf');
+  font-family: 'UtilyRegular';
+  src: url('assets/webfonts/UtilyRegular.otf') format('otf');
 }
 @font-face {
-  font-family: 'Utily Bold';
-  src: url('assets/webfonts/Utily Bold.otf') format('otf');
+  font-family: 'UtilyBold';
+  src: url('assets/webfonts/UtilyBold.otf') format('otf');
 }
 body {
-  font-family: 'Utily Bold', sans-serif;
+  font-family: 'UtilyBold', sans-serif;
 }
 h1 {
-  font-family: 'Utily Regular', sans-serif;
+  font-family: 'UtilyRegular', sans-serif;
 }
 p {
-  font-family: 'Utily Medium', sans-serif;
+  font-family: 'UtilyMedium', sans-serif;
 }
 /*
 	Strata by HTML5 UP
@@ -117,7 +117,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #a2a2a2;
-		font-family: "Utily Bold";
+		font-family: "UtilyBold";
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -227,7 +227,7 @@ input, select, textarea {
 		background: #f7f7f7;
 		border-radius: 0.35em;
 		border: solid 2px #efefef;
-		font-family: "Utily Regular";
+		font-family: "UtilyRegular";
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -235,7 +235,7 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Utily Regular", monospace;
+		font-family: "UtilyRegular", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -1933,7 +1933,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Utily Regular';
+				font-family: 'UtilyRegular';
 				font-weight: 900;
 			}
 
@@ -2033,7 +2033,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Utily Regular';
+			font-family: 'UtilyRegular';
 			font-weight: 400;
 		}
 
@@ -2050,7 +2050,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Utily Regular';
+			font-family: 'UtilyRegular';
 		}
 
 /* Image */
@@ -2822,7 +2822,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Utily Regular';
+				font-family: 'UtilyRegular';
 				font-weight: 900;
 			}
 
@@ -2871,7 +2871,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Utily Regular';
+				font-family: 'UtilyRegular';
 				font-weight: 900;
 			}
 
@@ -2934,7 +2934,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Utily Regular';
+				font-family: 'UtilyRegular';
 				font-weight: 900;
 			}
 
