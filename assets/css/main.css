@@ -1,14 +1,14 @@
 @font-face {
   font-family: 'Utily Medium';
-  src: url('goncharovasomova/assets/webfonts/Utily Medium.otf') format('otf');
+  src: url('assets/webfonts/Utily Medium.otf') format('otf');
 }
 @font-face {
   font-family: 'Utily Regular';
-  src: url('goncharovasomova/assets/webfonts/Utily Regular.otf') format('otf');
+  src: url('assets/webfonts/Utily Regular.otf') format('otf');
 }
 @font-face {
   font-family: 'Utily Bold';
-  src: url('goncharovasomova/assets/webfonts/Utily Bold.otf') format('otf');
+  src: url('assets/webfonts/Utily Bold.otf') format('otf');
 }
 body {
   font-family: 'Utily Bold', sans-serif;
