@@ -12,13 +12,13 @@
   src: url('goncharovasomova/assets/webfonts/Utily Bold.otf') format('otf');
 }
 body {
-  font-family: 'Utily Bold', sans-serif;
+  font-family: 'Utily Bold';
 }
 h1 {
-  font-family: 'Utily Regular', sans-serif;
+  font-family: 'Utily Regular';
 }
 p {
-  font-family: 'Utily Medium', sans-serif;
+  font-family: 'Utily Medium';
 }
 /*
 	Strata by HTML5 UP
